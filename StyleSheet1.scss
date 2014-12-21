@@ -3,10 +3,6 @@
 }
 
 #Head{
-    &:hover{
-        color:#fff;
-        font-weight: bold;
-    }
     font-weight: bold;
     display:inline-block;
     color:#0ff;
@@ -14,6 +10,24 @@
     width:105%;
     margin-left:-0.5em;
     margin-top:-0.7em;
+    text-decoration:none;
+}
+
+#Home{
+    color:#0ff;
+    display:inline-block;
+    background-color: brown;
+    padding-left:.35em;
+    padding-right:.35em;
+    margin-left:0.35em;
+    text-decoration:none;
+      &:hover{
+           color:#fff;
+           font-weight: bold;}
+    &:active{
+           background-color: #691414;
+           border-radius:7px;
+    }
 }
 
 html {
