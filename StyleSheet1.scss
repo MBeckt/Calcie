@@ -32,6 +32,26 @@ body
     }
 }
 
+#slidey{
+    background-color:yellow;
+    width:10em;
+    height:2em;
+    display:inline-block;
+    color:#ffffff;
+    margin-left:25em;
+    margin-top:0em;
+}
+
+#button{
+    background-color:orange;
+    width:2em;
+    height:2em;
+    display:inline-block;
+    color:#ffffff;
+    margin-left:0em;
+    margin-top:0em;
+}
+
 html {
     text:{
         decoration: none; // New Sass files are Awesome!

@@ -98,6 +98,24 @@
     background-color: #691414;
     border-radius: 7px; }
 
+#slidey {
+  background-color: yellow;
+  width: 10em;
+  height: 2em;
+  display: inline-block;
+  color: #ffffff;
+  margin-left: 25em;
+  margin-top: 0em; }
+
+#button {
+  background-color: orange;
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+  color: #ffffff;
+  margin-left: 0em;
+  margin-top: 0em; }
+
 html {
   text-decoration: none;
   font-family: Arial, sans-serif;

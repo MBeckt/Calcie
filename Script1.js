@@ -31,4 +31,7 @@ $(document).ready(function () {
     $('#Block5').mouseleave(function () {
         $('#Block5').fadeTo('slow', 1);
     });
+    $('#button').click(function () {
+        $('#slidey').toggle('slow');
+    });
 });
