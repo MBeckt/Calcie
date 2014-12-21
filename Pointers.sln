@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pointers", "Pointers", "{66665225-6B67-4EDF-A541-F052CFE52557}"
+	ProjectSection(SolutionItems) = preProject
+		Source.cpp = Source.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
