@@ -103,9 +103,13 @@
   width: 10em;
   height: 2em;
   display: inline-block;
-  color: #ffffff;
+  color: Blue;
   margin-left: 25em;
-  margin-top: 0em; }
+  margin-top: -1em;
+  border-radius: 3px;
+  border: pink solid 1px; }
+  #slidey p {
+    font-size: 0.7em; }
 
 #button {
   background-color: orange;
@@ -113,8 +117,9 @@
   height: 2em;
   display: inline-block;
   color: #ffffff;
+  margin-top: 0.1em;
   margin-left: 0em;
-  margin-top: 0em; }
+  border-radius: 5px; }
 
 html {
   text-decoration: none;
