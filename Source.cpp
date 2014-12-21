@@ -14,3 +14,5 @@ int main(){
 	extern int i;
 	std::cout << i << std::endl; // This should bring the 'I' from the other document.
 }
+
+/*this is all just for playing with some ketwords and getting more used to them(extern)*/
