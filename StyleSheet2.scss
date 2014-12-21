@@ -1,4 +1,21 @@
-﻿#Block1{
+﻿#Block1{        // for the jQuery Objects
+    display:inline-block;
+    background-color: #69D2E7;
+    color: #ffffff;
+    width: 10em;
+    height: 10em;
+    margin-left: 1em;
+    margin-top: 2em;
+    border-radius: 1em;
+    border:pink solid 0.5em;
+    text-align: center;
+    vertical-align: middle;
+    & p{
+            font-size: 1.9em;
+       }
+}
+
+#Block2{
     display:inline-block;
     background-color: #00ff21;
     color: #ffffff;
@@ -10,25 +27,14 @@
     border:pink solid 0.5em;
     text-align: center;
     vertical-align: middle;
-}
-
-#Block2{
-    display:inline-block;
-    background-color: #69D2E7;
-    color: #ffffff;
-    width: 10em;
-    height: 10em;
-    margin-left: 1em;
-    margin-top: 2em;
-    border-radius: 1em;
-    border:pink solid 0.5em;
-    text-align: center;
-    vertical-align: middle;
+    & p{
+            font-size: 1.9em;
+       }
 }
 
 #Block3{
     display:inline-block;
-    background-color: #69D2E7;
+    background-color: #ff6a00;
     color: #ffffff;
     width: 10em;
     height: 10em;
@@ -38,11 +44,14 @@
     border:pink solid 0.5em;
     text-align: center;
     vertical-align: middle;
+    & p{
+            font-size: 1.9em;
+       }
 }
 
 #Block4{
     display:inline-block;
-    background-color: #69D2E7;
+    background-color: #b200ff;
     color: #ffffff;
     width: 10em;
     height: 10em;
@@ -52,11 +61,14 @@
     border:pink solid 0.5em;
     text-align: center;
     vertical-align: middle;
+    & p{
+            font-size: 1.9em;
+       }
 }
 
 #Block5{
     display:inline-block;
-    background-color: #69D2E7;
+    background-color: #808080;
     color: #ffffff;
     width: 10em;
     height: 10em;
@@ -66,6 +78,8 @@
     border:pink solid 0.5em;
     text-align: center;
     vertical-align: middle;
+    & p{
+            font-size: 1.9em;
+       }
 }
-
 
