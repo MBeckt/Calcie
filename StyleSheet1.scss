@@ -1,0 +1,24 @@
+﻿body
+{
+}
+
+#Head{
+    display:inline-block;
+    color:#0ff;
+    background-color:brown;
+    width:105%;
+    margin-left:-0.5em;
+    margin-top:-0.7em;
+}
+
+html {
+    text:{
+        decoration: none; // New Sass files are Awesome!
+    }
+    font:{
+        family: Arial, sans-serif;
+        size: 1em;
+    }
+    overflow-x: hidden;
+    background-color:#ffd800;
+}

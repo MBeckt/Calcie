@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "website", "website", "{5266
 	ProjectSection(SolutionItems) = preProject
 		favicon.ico = favicon.ico
 		HTMLPage1.html = HTMLPage1.html
-		StyleSheet1.css = StyleSheet1.css
+		StyleSheet1.scss = StyleSheet1.scss
 	EndProjectSection
 EndProject
 Global
