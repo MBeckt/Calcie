@@ -1,4 +1,6 @@
-﻿body
+﻿@import "Stylesheet2.scss";
+
+body
 {
 }
 
@@ -28,22 +30,6 @@
            background-color: #691414;
            border-radius:7px;
     }
-}
-
-#Block1{
-    display:inline-block;
-    background-color: #69D2E7;
-    color: #ffffff;
-    width: 10em;
-    height: 10em;
-    margin-left: 1em;
-    margin-top: 2em;
-    border-radius: 1em;
-    border:pink solid 0.5em;
-    p{
-    font-size: 1.9em;}
-    text-align: center;
-    vertical-align: middle;
 }
 
 html {

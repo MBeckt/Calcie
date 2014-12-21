@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "website", "website", "{5266
 		jQuery.js = jQuery.js
 		Script1.js = Script1.js
 		StyleSheet1.scss = StyleSheet1.scss
+		StyleSheet2.scss = StyleSheet2.scss
 	EndProjectSection
 EndProject
 Global
