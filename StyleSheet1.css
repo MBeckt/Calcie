@@ -1,0 +1,17 @@
+﻿body
+{
+}
+
+#Head{
+    display:inline-block;
+    color:#0ff;
+    background-color:brown;
+    width:105%;
+    margin-left:-0.5em;
+    margin-top:-0.7em;
+}
+
+html {
+    overflow-x: hidden;
+    background-color:#ffd800;
+}
