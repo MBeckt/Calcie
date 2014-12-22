@@ -81,7 +81,8 @@
   width: 105%;
   margin-left: -0.5em;
   margin-top: -0.7em;
-  text-decoration: none; }
+  text-decoration: none;
+  z-index: 50; }
 
 #Home {
   color: #0ff;
@@ -99,14 +100,19 @@
     border-radius: 7px; }
 
 #slidey {
-  background-color: yellow;
+  background-color: #FFAC30;
   width: 10em;
   height: 2em;
-  display: inline-block;
+  display: fixed;
   color: Blue;
-  margin-left: 25em;
-  margin-top: -1em;
+  float: right;
+  margin-right: 2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
   border-radius: 3px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border-left: black 0px;
   border: pink solid 1px; }
   #slidey p {
     font-size: 0.7em; }
@@ -115,11 +121,19 @@
   background-color: orange;
   width: 2em;
   height: 2em;
-  display: inline-block;
+  display: relative;
   color: #ffffff;
-  margin-top: 0.1em;
-  margin-left: 0em;
-  border-radius: 5px; }
+  margin-top: 0.03em;
+  margin-bottom: 0em;
+  margin-right: -0.05em;
+  border-bottom: pink solid 1px;
+  border-top: pink solid 1px;
+  border-left: pink solid 1px;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  float: right;
+  z-index: 999999; }
 
 html {
   text-decoration: none;

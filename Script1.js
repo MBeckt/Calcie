@@ -32,6 +32,11 @@ $(document).ready(function () {
         $('#Block5').fadeTo('slow', 1);
     });
     $('#button').click(function () {
-        $('#slidey').toggle('slow');
+        $('#slidey').slideToggle('slow');
+    });
+    $('#button').clickToggle(function () {
+        $('#button').animate({
+            'marginRight': "-=0.5em" //moves left
+        });
     });
 });
