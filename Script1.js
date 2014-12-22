@@ -36,7 +36,7 @@ $(document).ready(function () {
     });
     $('#button').clickToggle(function () {
         $('#button').animate({
-            'marginRight': "-=0.5em" //moves left
+            'marginRight': "-=0.5em"
         });
     });
 });
