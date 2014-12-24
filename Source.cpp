@@ -1,9 +1,9 @@
-/*#include <iostream> // commenting out all for reuse of main.
+#include <iostream> // commenting out all for reuse of main.
 
 using namespace std;
 short val = 6;
 
-int main(){
+int second(){
 	short val = 5;
 	short &refVal = val;
 	
