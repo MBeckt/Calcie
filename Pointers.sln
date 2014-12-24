@@ -17,10 +17,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicCalc", "BasicCalc", "{5E20F901-5F0E-4789-B927-B452F93DC985}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build1", "Build1", "{81BE33AD-1920-4682-98CF-32702DF2263D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "USE THESE FILES", "USE THESE FILES", "{7E631C13-934B-4977-8FBE-B8726426FE01}"
 	ProjectSection(SolutionItems) = preProject
-		Debug\PointersConsole.exe = Debug\PointersConsole.exe
-		Debug\PointersConsole.ilk = Debug\PointersConsole.ilk
-		Debug\PointersConsole.pdb = Debug\PointersConsole.pdb
+		Release\PointersConsole.exe = Release\PointersConsole.exe
+		Release\PointersConsole.pdb = Release\PointersConsole.pdb
 	EndProjectSection
 EndProject
 Global
@@ -40,5 +41,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5E20F901-5F0E-4789-B927-B452F93DC985} = {14CA928E-6C0D-4614-B03D-28EF96CD9A63}
 		{81BE33AD-1920-4682-98CF-32702DF2263D} = {5E20F901-5F0E-4789-B927-B452F93DC985}
+		{7E631C13-934B-4977-8FBE-B8726426FE01} = {81BE33AD-1920-4682-98CF-32702DF2263D}
 	EndGlobalSection
 EndGlobal
