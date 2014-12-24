@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream> // commenting out all for reuse of main.
 
 using namespace std;
 short val = 6;
