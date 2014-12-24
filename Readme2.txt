@@ -1,0 +1,3 @@
+Master branch is a bit of a cock up but usually has the least messy files.
+
+-to actually run the program(god knows why you would) just go into the.., shit I havent uploaded that bit...
