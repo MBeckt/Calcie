@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "USE THESE FILES", "USE THES
 	ProjectSection(SolutionItems) = preProject
 		Release\PointersConsole.exe = Release\PointersConsole.exe
 		Release\PointersConsole.pdb = Release\PointersConsole.pdb
+		Release\readme.txt = Release\readme.txt
+		Debug\readme.txt = Debug\readme.txt
 	EndProjectSection
 EndProject
 Global
